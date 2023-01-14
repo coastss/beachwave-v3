@@ -6,4 +6,4 @@
 
 --// Script
 
-print("hi")
+print("33")
